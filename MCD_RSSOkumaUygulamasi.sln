@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_RSSOkumaUygulamasi", "MCD_RSSOkumaUygulamasi\MCD_RSSOkumaUygulamasi.csproj", "{B993F2C2-6A1F-4E19-9D18-F26C921DE816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B993F2C2-6A1F-4E19-9D18-F26C921DE816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B993F2C2-6A1F-4E19-9D18-F26C921DE816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B993F2C2-6A1F-4E19-9D18-F26C921DE816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B993F2C2-6A1F-4E19-9D18-F26C921DE816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C019C7F-65B9-4E60-9352-F4C9F957E41D}
+	EndGlobalSection
+EndGlobal
